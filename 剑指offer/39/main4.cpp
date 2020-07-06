@@ -32,7 +32,7 @@ public:
             }
         }
 
-        swap(nums[small], nums[index]);
+        swap(nums[small], nums[r]);
 
         return small;
     }

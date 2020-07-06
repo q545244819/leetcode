@@ -12,7 +12,7 @@ int partition(vector<int> &nums, int l, int r)
     }
   }
 
-  swap(nums[small], nums[index]);
+  swap(nums[small], nums[r]);
 
   return small;
 }
