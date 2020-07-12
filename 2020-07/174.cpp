@@ -5,7 +5,8 @@ public:
         if (n == 0) return 0;
         vector<vector<int>> dp(n, vector<int>(m));
 
-        // dp[i][j] 表示在到(i, j)位置上至少需要“最低初始健康点数”
+        // 从(n-1, m-1)向(0, 0)推导
+        // dp[i][j] 表示在(i, j)位置上出发到(n-1, m-1)位置所需要“最低初始健康点数”
         
         for (int i = n - 1; i >= 0; i--) {
             for (int j = m - 1; j >= 0; j--) {
