@@ -10,4 +10,4 @@
  - [面试题 17.13. 恢复空格](https://leetcode-cn.com/problems/re-space-lcci/)
  - [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
  - [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)
-   - https://www.bilibili.com/video/BV1TK411W7T1?from=search&seid=1295881962315030847
+    - https://www.bilibili.com/video/BV167411q7YG?from=search&seid=11764919576084397361
