@@ -19,6 +19,8 @@
     - https://www.bilibili.com/video/BV167411q7YG?from=search&seid=11764919576084397361
   - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
   - [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
+  - [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/)
+    - https://www.bilibili.com/video/BV1U4411E7iZ?from=search&seid=13688709406751759364
 
 ## 数学
 
