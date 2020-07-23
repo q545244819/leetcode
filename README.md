@@ -22,6 +22,7 @@
   - [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/)
     - https://www.bilibili.com/video/BV1U4411E7iZ?from=search&seid=13688709406751759364
     - https://blog.csdn.net/my_sunshine26/article/details/77141398
+  - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 ## 数学
 
