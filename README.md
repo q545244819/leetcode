@@ -23,6 +23,7 @@
     - https://www.bilibili.com/video/BV1U4411E7iZ?from=search&seid=13688709406751759364
     - https://blog.csdn.net/my_sunshine26/article/details/77141398
   - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+  - [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
 
 ## 数学
 
