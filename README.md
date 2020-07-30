@@ -26,6 +26,7 @@
   - [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
   - [410. 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)
     - https://www.bilibili.com/video/BV14W411d7D4?from=search&seid=16762131725565073025
+  - [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)
 
 ## 数学
 
@@ -33,6 +34,7 @@
     - https://www.bilibili.com/video/BV1Zt41187QH?p=3
   - [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)
   - [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+  - [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)
 
 ## 记忆化
   - [329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
